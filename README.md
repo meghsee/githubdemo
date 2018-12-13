@@ -1,4 +1,4 @@
-# Demo repository for learning github
+# Meetz Demo application
 
 ## How to setup the application
 
